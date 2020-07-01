@@ -3,7 +3,7 @@
 This project is a javascript debugging tool to play beeps as an alternative to Console logging.
 
 ## Install
-$ npm install --save-dev beepz
+$ npm install beepz
 
 ## Import
 `import Beep from 'beepz'`<br/>
