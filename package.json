@@ -1,6 +1,6 @@
 {
     "name": "beepz",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Debugging beeper to save looking at the console log",
     "main": "index.js",
     "scripts": {
@@ -8,6 +8,15 @@
     },
     "author": "Merchistoun",
     "license": "MIT",
+    "keywords": [
+        "beep",
+        "debug",
+        "debugging",
+        "sound",
+        "termimal",
+        "alert",
+        "ping"
+    ],
     "homepage": "https://github.com/merchistoun/beepz.git",
     "prettier": {
         "tabWidth": 4,
