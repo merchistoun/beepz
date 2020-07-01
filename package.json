@@ -8,6 +8,7 @@
     },
     "author": "Merchistoun",
     "license": "MIT",
+    "homepage": "https://github.com/merchistoun/beepz.git",
     "prettier": {
         "tabWidth": 4,
         "singleQuote": true,
